@@ -10,3 +10,5 @@ https://vansh7777.github.io/React_Utility/
 * Convert Into UpperCase
 * Remove Extra Spaces
 * Dark Mode Enabled
+* Character Counter
+* Word Counter
